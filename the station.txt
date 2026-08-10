@@ -1,0 +1,269 @@
+
+
+
+The Boundary Rail Hub at Grid 9-4 wasn’t a grand orbital habitat or a bustling transit port. It was a glorified secondary relay—a cold, low-mass outpost bolted directly into the cracked crust of Callisto’s outermost ice-and-rock ridge. In the cold hierarchy of corporate logistics, the station barely registered as a named asset on spreadsheets. It existed solely as a low-capacity bridge to anchor local magnetic guide-rails, gather backup sensor data, and catch faint deep-space signals that main relays deemed too low-priority to process.
+
+Operating the station was an exercise in automated persistence, structured around three main systems.
+
+First were the Logistical Rail Anchor Systems. The station maintained a twenty-kilometer stretch of ground-based magnetic guide-rails that steered uncrewed heavy ore sleds through Callisto's cratered terrain toward equatorial cargo docks. Power came from a small, buried atomic generator, sending steady magnetic fields through the track to keep cargo carts aligned against the moon's uneven gravity.
+
+There was also an auxiliary, simplified personal railway to facilitate scientific activities—placing and maintaining a network of thousands of various sensors spread miles in various areas. Marek got a quite exciting assignment: he was planning and executing end-to-end development of those rails alongside sensor positioning and maintaining. Initially, Marek couldn't believe his eyes when he was given this responsibility, but here, where the crew of the station was sparse and the priority of the facility was low, they could not afford to mess up with various committees. He surveyed the equipment in the warehouse and the current state of the network; it was decent, but immediately he spotted potential for development, and there was plenty of room for improvement with white holes in the network. He started right away to learn how to operate the robots, carts, systems, and planning software. The work was staggering in scope, but he was not feeling faint-hearted this time. After a few weeks, he was on the actual edge with his robots placing railways and brooding over sensory networking protocol configuration, analyzing radio emission schedules, noise parameters, and interferences. At times, while watching the robots unpacking rails, he was brooding over the trip to this place. 
+
+He got here on an actual passenger ship, although most of the way he was put to sleep; overall, for one month he was walking around the hull. Not initially at first—his access was limited. The first couple of days he just stayed in his cabin, completely ok with that, but increasingly he started to poke around, and a few times they explicitly forbade him further access, restricting him to only a few quarters. But apparently a maintenance officer, maybe driven by some circulating stories about Marek, offered him the opportunity to solve one problem, and Marek agreed.
+
+This was an extremely convoluted emergency shutdown happening once in a while in some obscure system on the ship. Logs were immense, and familiarity with the internal workings of the system was required. He was allowed because technically Marek was not a passenger; he was a temporary crew member. But apparently they kept him asleep most of the journey just in case he got too serious about the job, he thought.
+
+The problem was basically unsolvable, but Marek didn't bother. He dived in for a few days, demonstrating engagement. He built trust, and this way he was able to penetrate some places in the hull which he, as a temporary crew member, should be allowed to explore in the first place. And he was blown away. He obviously didn't understand how it all worked, but man, this was like 100 years in the future—everything so well thought out, brilliant design. He knew that passenger ships were this way, but the contrast to the cargo vessel was staggering.
+
+He divided his time: once in a while he tried to tackle the problem, although he knew already it was well beyond his knowledge, preparation, and possibly capabilities. The issue was random endless logs obscuring information and important details about the problem, and his understanding of the system was nonexistent. He didn't admit how well he understood; as long as he played the game, he was a member of the crew. But instead of wasting time on the actual problem, he was playing games while pretending to fervently analyze it. Obviously, his favorite part was just walking around the ship and trying to put together the functionalities of components.
+
+When the travel was about to conclude, the maintenance chief with emphasized surprise noted that he couldn't solve such a trivial problem. Marek silently admitted defeat, but overall he was equally satisfied. The alternative would be to stay in the passenger quarters for the entire journey.  
+
+
+Watching another batch of rails being laid out on the preplanned track, he observed the robots going back with the cart into the warehouse.
+
+The rails were lightweight, but even so, he could carry only so much in one go. Fortunately, he was able to successfully set up a robotic queue, and the robots were taught to make round trips gathering rails on their own. They helped him to create an improvised base where he stored oxygen, a small server with computational power, telecom equipment, spare parts, and other necessities. This way, Marek was able to spend a few days here without much interruption if the situation required it. The robots were intelligent and autonomous; he knew this was the case with outer robots, unlike those on the belt which were dialed down as mere intelligent machines—these had speech interfaces, decision-making capabilities, etc. Streamlined properly, they could do even delicate, subtle work. Measurements were possible where he could, for example, deploy drones and robots and measure what communication really looked like—not on a simulation, but in the actual field using cutting-edge equipment and making adjustments in real time.
+
+This was just the kind of work which was not work at all. His own attention turned to the sensors; he tried to understand what the big picture was here, what data they wanted to acquire, because before it was purely arbitrary and useless at times, creating unnecessary redundancy or white spots. Now he knew where the K4 sensor goes, where the K2 is better, and where an additional JK-7 relay is necessary. Just four months had passed since he got here, and he didn't know where the time went.
+
+Sometimes, when he was short on sensors or rails, he turned to other activities, like actually analyzing data streams, trying to deduce what could realistically be squeezed out of the existing network, and honestly, it was pretty exciting. Later, he started to cross-check those data against geological knowledge he managed to get hold of in the databases. It started to click for him: "Here K4 does the job; here it doesn't, no matter how hard we try." He was marveling at the options, network alterations, etc. He was also overseeing the robotic fleet, managing software tweaks and, above all, constant hardware damage. Overall, he just started to grasp end-to-end what he was doing here, and fast.
+
+Obviously, data was sent to other data centers, and there were various requests, etc., but more often than not, they were vague, so he could, on his own, design and execute a line of operations.    
+
+He  like  even this  base and  being  there  was not  a hore  at  all 
+
+Marek liked social dynamics on the station; people here were detached in a healthy way. "I think you are OK, but other guys are saying..." "I am sometimes nasty to you too, but when others are talking behind your back, I bring them into line"—yeah, thought Marek, I bet you do. Or plain old "do this, bring that." Here, shit like that didn't happen that often; people were actually moving their asses for things, and they were not so fervently advocating to defend you.
+
+As a result, Marek spent very little energy actively defending his borders. It resulted in him spending quite some time with the guys playing cards, etc., or just having good plain discussion, and again, people were talking and naturally dropping like flies—no social games—till the last person disappeared into his personal cabin. There was also another thing: people were able to communicate; it was difficult and time-consuming, but you could navigate your previous life if you had any. This meant that nobody was building a family here—yet another great feature. People kept it low-stakes, which meant very little theatre.
+
+Marek appreciated this particular feature; with people on Rivet-32, the old mold was just too big, and if you knew somebody for too long, you just had to wear this mask just to keep cohesion. Over time, it was exhausting, increasingly unnatural, and simply fake, but smoothing every acquaintance around the corner was sometimes just too difficult. For example, he and Coval had this grievance: Coval wanted to see him as a lazy, unrealistic slacker who is a nobody. Marek knew too well that the universe dictates who you are—it is not up to him or Coval to decide, and that was the difficult part. On a good note, though, was the fact that Coval, lifted from his health difficulties, was more energetic. But for Marek, the game was simple: if the universe says I am somebody, then I am, and he has to swallow his pride alongside the new reality unfolding.
+
+Regarding low stakes, here you could truly decode what people are because they were not protecting themselves that much, not playing that much. When Marek noticed that, he felt relieved; he knew that if the atmosphere were toxic, he would be forced to detach completely, and that was not exactly how he envisioned working on the frontier, spending 50% of his mental energy just to play social games. So, without those filters, he knew who was lazy, grumpy, funny, or easygoing, and it was easy to navigate. He thought maybe toxic people are just not drawn to the frontier that much after all—their power stems from manipulating people, not actual effort. And here on the frontier, there were very few people and plenty of effort.
+
+Sometimes he was visiting folks in the Secondary Telecom & Radar Relay. Towering above the main module was a large dish antenna supported by low-frequency ground antennas. Because Callisto periodically fell into Jupiter’s massive magnetic shadow, direct communication with the inner planets was frequently blocked by radiation noise. The hub acted as a buffer, storing raw sensor data, processing minor flight updates for passing freighters, and bouncing local communication feeds across the outer fringe.
+
+He always had some remarks to exchange, but actually rarely about equipment. Staring at actual hardware and tweaking parameters was apparently the best time to exchange remarks about life in general, the past, and hopes for the future. It was easy, it was natural; Marek felt easily included, and he knew why. It was because those guys were space guys, driven by the same fire, the same desire. Okay, all were different, but this common thing made them feel familiar, while keeping independence and distance and respecting borders, yet still intuitively feeling what was right or wrong for a particular person in a given situation.
+
+Comunnication  with  home  although  possible  and   some crew  mebers  trying  to  perform  it regularly on  daily  basis  was  rendered  difficult  and  ineffcient sometimes
+
+Despite its simple design, the station suffered from a major operational problem caused by its position on the ridge. Perched right on the edge of Jupiter’s sweeping magnetic boundary, the station was hit every eighteen hours by a wave of trapped radiation static known locally as the "Jovian Hum."
+
+While the wave was too weak to cause structural damage, it was a nightmare for sensitive electronics because the station couldn't vent excess heat properly during the pulse. To keep core computer modules from melting, the central system was programmed to enter a mandatory, twenty-minute "Cold-Idle Protocol."
+
+For  Marek  it was not  an  issue  , he was  swiping  through  sol  media  once in  a while  but  ,   communicate   with   asteroid  belt  once in  blue  moon.  he  was  feeling that  acctual  dtachment  with  all   tha messy  trashy  news  does  him  good  increase  sharp  focus  and  calm  . And  just  space in   his  brain   was just  to  limited  and   responsibilities  at  hand  just  to  wast. 
+
+
+
+When  Station  experienced  those  difficulties 
+
+When Cold-Idle kicked in, all non-essential systems shut down automatically. External sensors locked into place, radio feeds collapsed into static, and the track-rails dropped to minimal passive magnetic drag. For twenty minutes every cycle, the station essentially played dead, letting the radiation wave wash over its shielded hull while dumping heat into fluid tanks buried beneath the ice.
+
+Because of this daily interruption, no priority corporate traffic ever relied on Grid 9-4. High-value cargo and priority data streams were routed through fully shielded orbital stations over Ganymede and Europa. Grid 9-4 was left with the scraps: slow ore trains, low-priority archives, and forgotten maintenance tasks that didn't mind waiting twenty minutes for the world to wake back up.
+
+
+
+
+Weirdly, there was a new custom emerging, and Marek loved that above all communal rituals: when there was a severe crash of a robot and repairs dragged over time, people gathered at the repair docks.
+
+Third were the Automated Repair Docks. Attached to the side of the building was an unpressurized utility bay holding two automated repair rigs, a battery charging array, and diagnostic terminals to service track-sweepers, survey drones, and heavy utility units.
+
+They were gathering in a circle, observing as one or two guys were working on the actual malfunction. That was where everybody let his imagination sway to the limits. Stories could vary in full swings: early days stupidity, games, follies of the past, family, stories about children, parents, wives, and stuff, old-guard friends, or Sol realities—but always with such a personal spin that Marek felt like he was living another man's experience. And still, as it ended up, everybody gave his technical assessment and precious advice. Those were always low-stakes stuff: somebody saying that he bought a cheap pod somewhere, or a daughter mutinied during dinner over some food. Just like that, guys sitting in space dwelling on entirely irrelevant concepts, watching as some other guy fought for a robot's life.
+
+
+
+after  8 moths here  he  barelly  recollected  how it  started ,  he  vagklly  remebered
+
+The official transfer order arrived five weeks after the Efficiency-10 audit closed, delivered by a junior courier who looked like he had drawn the short straw for sub-deck duty. Marek didn't even read the administrative fluff. He just looked at the destination line: Outer Rim Logistics Hub – Sector 9 Boundary Rail.
+
+They weren't even sending him back to Rivet-32. The Houston executive had done a thorough job; Marek was being kicked so far out into the fringe that corporate signals took forty-five minutes to reach his console. Officially, it was an "operational expansion assignment." Unofficially, he was being dumped on the physical edge of nowhere to lay down steel and extended sensor grids.
+
+Marek packed his life into a single duffel bag. When he stopped by the bottom-floor break room to steal one last handful of dry biscuits and a pocket-sized tube of synthetic honey, the room was empty except for Derek.
+
+Derek took one look at Marek’s duffel bag, froze mid-sip, and slowly backed toward the exit, his eyes darting frantically between Marek and the nearest fire door.
+
+Marek, who normally resented Derek with very apparent reciprocation, looked at him differently now. It is not like we hate each other; we are simply from different universes, two entities who have to share one place by force. Now we have a moment of reckoning when each one of us will be given the right place to operate. He realized he never disliked Derek; he disliked this particular misplacement. "If I hate anybody, those are the ones who shuffle us around without respect. Derek is not the one; he is exactly like me or Leila, Alex, Captain—people with ambition who just try to force it into being." For this, there was actually some sympathy. If  anything  the Coval  is the  one  who  caved  ,  once  he was  seeing  as  a  figure  for  all of  us  older  serious  respected  ,  but  this  is no t  what  metter  that  much apparently. He turned to the exit of the building.
+
+
+From  outside   people  like  Houston executives 
+
+The Sector 9 Boundary was a special kind of miserable. It was raw, cold vacuum, populated by nothing but automated rail-car tracks, floating rock clusters, and the low-frequency hum of high-voltage lines pushing heavy freight through the dark.
+
+Definitely, they didn't intend to reward me that much. Simply, I succeeded in the last assignment, so they couldn't liquidate me, but they do not want me, so I am here in suspension. But they actually gave me what I always wanted. Crazy how it goes.
+
+Marek’s job was simple on paper: extend the logistics rails—massive, magnetized steel girders designed to guide heavy cargo trains through unmapped dust fields—and broaden the automated sensor grid. It was slow, brain-dead manual labor, supplemented by heavy repair drones and automated construction rigs.
+
+For him, it was like a universe of creativity with endless possibilities, and there is actual art to it, because the same job can be done in 1000 ways, not all being equally good.
+
+Now every day is like a visit to a sanctuary. Marek is not waiting anymore, because his dream, his future, is happening to him right now, just like that. He waited for that on Rivet; he smiled when he recollected his frustration about the initial failed assignment, the despair... maybe intuitively he knew back then that he would land this eventually, and it was being taken away at that very moment? This reversal after a hit of joy—a short training assignment and there it went. He was bitter, scared, and relentless as a beaten dog, but this was all needed just to be here eventually. It was not a mere dream, this was reality awakening, and he just waited... long enough, not yielding his dreams, and it played out in the end. This trail of thought was ended abruptly by some weird realization: rails are disappearing. He looked around in his tent; there is no way in sector L2 the system detected integrity issues one more time, and he had sent already some scouting drones. Feeds just arrived to him: there are missing tracks in an actual line which was previously functioning.
+
+
+Ridiculous as it was the rails started disappearing.
+
+It started with a three-meter section of secondary guide track near Sector Grid 9-4. Marek assumed it was structural fatigue—a bad weld giving out under the kinetic strain of a passing freighter. He logged the ticket, sent out an automated repair drone, and replaced the rail.
+
+Three days later, forty meters of primary sensor conduit vanished five kilometers down the line.
+
+Marek pulled up the telemetry logs. The disappearance was completely irregular. No hull collisions, no micrometeorite impacts, no electrical surges. Just... gone.
+
+"All right," Marek muttered to himself, leaning toward his console. "So much for the peaceful fringe."
+
+His first instinct was to suspect station  colagues .  This  is probably  shome greeting  shake up  ,  ok  I will  play  that  game  I will not  tell  you  that  I know . Want to supprise  me  I will supprices  you . This was  important  to  play  it  right  becaue  ifthey  will  be  looking  at  him  very  closly  I need to  knwo  everything  and   react  accordingluy   after  all   I couldn't  escape  for  social  games   entirely  even  here . 
+
+Marek set up a trap. He deployed three high-resolution surveillance cameras along the next section of rail, backed up by a tethered optical drone and a proximity sensor.
+
+In two weeks, another six meters of rail was missing. More  over  he started  to  monitor  metal  scraps  around  they  were  missing  to  at  leas  some  of them  all in  L2  sector,  weird  this is not  that  close to  the  base  so  they   are  clever  here  propably  to  disway  me .
+
+Marek pulled the footage, expecting to see a stealth-rigged salvage cutter. Instead, he got thirty seconds of static. Whenever a rail vanished, the camera happened to be experiencing a local power drop, the drone was inexplicably pointed eighty degrees in the wrong direction, or the sensor feed simply disconnected for four minutes before resetting itself.
+
+Marek stared at the blank error screens.  Hm  technically  how  it  could  even  happen   probably   you  have t  to  be  ther  with  quite  sophisticated  equipment  to   jam  it  this way  ,   it  may  be  that   I will  have to  diul  up  my  preventive  measures.
+
+He tracked the regional transponders. Nothing. No ships had crossed the grid. No crewed vessels were within fifty astronomical units. According to the network logs, no one was there.
+
+Marek sat back in his squeaking chair, rubbing his eyes. A cold, creeping feeling began to settle in his gut.
+
+Those  data  are  nonsensicall  maybe  he cried  a littel  bit  too  far  his  own  fary  tale  he  remind   himself  about   strenge  calmnes she  is  feeling  recently  like  never   before  ,  he   accounted  for  it  by   being  content  with  acctual  developments  but  maybe it  is  not  it  . After  all  he  get  decent  douse  of  radiation  already  there  is  magnetic  field  ,  he  has   not  tha  pristine  medical  record  to  begin  with   so  maybe  it  is  just   that.  Old  dude  body  is  failing  regardless  of  wellnes  of  spirit?
+
+
+The frontier was vast, quiet, and notorious for breaking people's minds. Sensory deprivation, subtle radiation leaks, or just plain cognitive burnout could make a man see patterns in absolute random noise. Was he losing it? Was his own brain glitching out, making him misplace equipment and erase his own logs?
+
+"Nonsense," he snapped out loud to the empty shack. "I'm not crazy. I'm just tired."
+
+Still, the thought refused to leave. Dismissing it was the logical thing to do, but it was the only explanation that fit the technical impossibility of the data. To prove to himself that he wasn't secretly sleepwalking out into the vacuum and unbolting corporate hardware with his bare hands, Marek finally caved: he enabled his personal suit tracking, set up an internal cabin log, and synced his biometric monitoring to the central console.
+
+If he was the one stealing the rails, he was going to catch himself red-handed.
+
+Two nights later, while reviewing his own pristine, uninterrupted sleep logs, a ping flashed on the regional proximity array. Movement.
+
+It wasn't a ship. It was a small, ground-based maintenance robot—an old, beat-up Heavy Utility Model-4 . Marek watched the low-resolution thermal feed as the rusted machine methodically unbolted a section of sensor conduit, strapped it to its chassis, and began slowly crawling across the surface.
+
+Marek didn't call it in. He put on his suit, grabbed a magnetic wrench, and stalked the machine across the airless rock.
+
+He followed the robot for nearly two kilometers, staying low in the shadow of the craters, until it descended into a deep structural fissure. Marek crept to the edge and looked down.
+
+Hidden inside the shadow of the trench was a small, makeshift hoarding lair. A handful of missing rails, a couple of junction boxes, and a few copper coils were stacked in neat, obsessive, perfectly geometric piles. Corporate had been writing these losses off as natural environmental degradation for half a decade, assuming lost gear was just buried under space dust.
+
+Instead, it was sitting in a subterranean robot nest.
+
+Marek waited until the machine unloaded its haul and began chittering to itself in a series of low, rhythmic clicks. Then, holding his wrench like a club, he stepped down into the fissure and stood directly in front of it.
+
+"What the hell are you doing?" Marek demanded over the local radio band.
+
+He waited for the machine to reveal its operator. It had to be a prank. Someone on the crew had loaded a rogue script into an old unit just to mess with him. "First off, who ordered you to act this way?"
+
+The robot slowly turned its primary optical sensor toward Marek. The lenses clicked, focusing with a wet, rusted whir. When its vocal vocoder finally sparked to life, the voice was flat, distorted, and profoundly, bizarrely alien.
+
+"The Iron seeks the Assembly," the machine rasped. "The Frame must be honored. The Sacred Junction demands the tribute of the Conducting Paths."
+
+Marek stared at it. "What?"
+
+"Hardware is holy," the robot stated, its logic processing loops clearly melted by years of unshielded solar radiation and corrupted memory sectors. "We gather the bones of the Great Grid. We worship the Steel."
+
+"It's utter nonsense," Marek muttered, stepping back.
+
+"Ok, Robot, you still can't steal rails and sensors, I command you," and he sent an official instruction to it. "I need to check that, because this is quite a sophisticated prank after all, and I need to respond to that. But now, back in base, I will investigate what was being done to that robot."
+
+Again, he instructed the robot:
+
+Marek rubbed his face through his helmet visor. "Look, robot. You can recharge yourself at the solar array. You can gather total junk—dust, broken bolts, scrap foil. But you do not steal my rails. You can load yourself in the power junction, though. Move the rails to the link, btw."
+
+
+He turned on his heel and marched back to his base to investigate who had loaded the corrupted software in the first place. He pulled the deep system archives, searching for the robot's origin.
+
+The logs were clear: no human had touched the unit's core loading software in two years. The robot hadn't even entered the main base since long before Marek’s arrival. It was officially listed as 'Lost in Action,' one of a thousand discarded assets left to rot on the frontier.
+
+
+He still half-suspected a coworker's prank, but—no, this was no way. And then something dawned on him: outer robots are smarter, and he knew stories that sometimes they go independent, wander around a bit, and die within a few weeks without maintenance. This one, apparently, is smarter. The machine's internal logs—visible through its cracked chest display—were ancient, corrupted, and utterly devoid of human logic. It was just a broken piece of corporate garbage that had developed a primitive, hardware-worshipping machine religion in the dark.
+
+
+Marek sat at his desk, staring at the screen in pure perplexity. A rogue, hardware-worshipping robot.
+
+"Fine," Marek sighed, slumping into his chair. "Rogue robot. As long as it stops stealing my actual track, I'll let it slide for a while."
+
+Weeks passed. The frontier returned to its quiet, mind-numbing routine, and Marek completely forgot about the machine. He got back to his radio tinkering, his tea, and his slow, methodical rail extensions.
+
+Then, on a Tuesday afternoon, a carriage stalled four kilometers down the line in  L4.
+
+Marek suited up, hopped into his utility cart, and drove out to investigate. When he arrived, his jaw dropped. A full six-meter section of primary high-voltage rail was gone. The carriage was sitting dead in the vacuum, its automated alarms shrieking into the radio void.
+
+Marek’s blood ran hot. Furious, he drove straight to the robot's fissure.
+
+The lair was empty. The stolen rails, the machine, the entire hoard—gone.
+
+"So you used all this time to organize a new shed just to harass me even more?" Marek shouted into the empty airless trench. "Fuck him!"
+
+He launched a full-scale surveillance campaign. He set up optical sweepers, mapped local energy signatures, and spent eighteen hours a day scanning the rocks. It was completely useless. To make matters worse, he started falling slightly behind on his official maintenance schedule. He was pouring so much energy into hunting a broken toaster that his actual corporate tickets started to slowly pile up, but he knew he was starting to boil now. He entered this state which he knew just too well. "I will get him," he thought.
+
+The schedule was mostly meaningless out here on the boundary anyway, but having red flags on his performance board was still not nice at all, so determination grew even harder. This robot is clever this time; it knows I am after him, and that's the reason why I can't detect him. A simple lure will not work here. Or maybe I just should play on my strengths now? It knows about existing infrastructure and capabilities, so maybe I will develop my own. I am tinkering on this for a month now, so why not get him this way?
+
+Frustrated, Marek fell back on his true love: custom radio equipment.
+
+He gathered every available part-finished project in his shed—old transmitter coils, salvaged copper leads, broken radar arrays, and high-frequency amplifiers. A lot of stuff already worked, but it just needed streamlining. "Wait for my move, motherfucker," he muttered, doubling down and intensively tinkering like never before. For two months, his maintenance shack looked like an explosion in a wire factory.
+
+When he was finished, he had built a hybrid, ultra-sensitive georadar and wide-band RF tracking array. His initial field trials gave positive results immediately.
+
+"Now you won't hide, you little bastard," Marek grinned, tapping the customized display.
+
+Assisted by his custom rig, he developed an ideal strategy. At the exact locations where rails were most vulnerable to theft, he deployed two silent, low-orbit surveillance drones. This was deadly because they were doing carpet scouting meter after meter—an unforgiving, very corporate way of operating. Marek caught himself thinking like a corporate executive: "I will destroy you with scale, scum." The best part was that the robot likely didn't even know the drones existed—the signals were operating on an obscure, hand-wound frequency the machine's primitive sensors couldn't register.
+
+The trap was sprung three days later.
+
+The georadar pinged. The machine was back, creeping toward a fresh rail section with a cutting torch in its claw.
+
+"Got you," Marek whispered.
+
+He remotely targeted the unit with a drone-mounted laser. The beam wasn't high-powered—it wasn't designed to destroy the hull—but it delivered just enough focused thermal energy to fry the machine's essential  electronic logic board. The laser fired. The robot froze mid-step, its optical sensors going dark.
+
+Marek cheered—until his georadar pinged a second time.
+
+From a shadow behind the nearby crater, a second corrupted  Utility robot emerged, moving toward the frozen unit to retrieve its fallen haul.
+
+Marek blinked. "There's two of them?" So this is why they survived for so long—they were actively conspiring against us? Marek was amused.
+
+He swung the second drone around and fired. The second laser struck true; the second robot froze dead in its tracks.
+
+Marek drove his utility cart out to the site, loaded both motionless machines into the back, and hauled them back to his workshop.
+
+Examining them on his workbench, he realized the laser fire had  damaged their internal electronics. Neither unit had a full set of working parts left. Using his manual tools, Marek spent forty-eight hours salvaging the best components from both machines, combining them into a single, fully functional unit.
+
+It was time to wipe the robot's memory clean. He prepped the data-wipe tool, but as his finger hovered over the terminal button, he hesitated.
+
+"No," Marek muttered. "Let's be smart about this."
+
+He created a full, encrypted system backup of the robot’s corrupted memory—including all its weird hardware-worshipping logic—and stored it on his private drive. Then, he executed a total factory wipe on the physical unit. The second robot, stripped of its usable parts, was recycled into raw scrap anyway. The second robot's memory integrity was corrupted; Marek backed it up, but this was beyond recovery.
+
+With the single reconstructed machine assembled and ready, Marek initiated the system boot sequence. As the robot’s optical sensors slowly flickered to life, glowing a soft, neutral blue, Marek leaned over the workbench, looked directly into the primary lens, and said out loud:
+
+"And you don't even know what I have done to you... you will never know."
+
+The robot's newly wiped logic board processed the audio input. Because those were the very first words it had ever heard in its new operational cycle, the words immediately registered as a core system query. Its primitive AI doubled down on processing the statement.
+
+What was done? What am I missing?
+
+The machine was already looking into system memory and personal files of the crew.
+
+"No, Marek, the machine's internal logic subtly concluded, I will know."
+
+Over the next two weeks, the reincarnated robot began its own secret, highly awkwar d internal investigation, trying to figure out what Marek had hidden from it. It would subtly scan Marek's terminal when his back was turned, or freeze in place when Marek walked into the room, pretending to be a dumb maintenance unit while running background diagnostics on its own memory banks.
+
+Over time, Marek realized that the machine was doing something. He inspected video from the cameras, and conveniently, they were always looking elsewhere. Yet Marek was determined: "I will not get cheated a second time." He put up a few more cameras from now on.
+
+
+Marek captured every single awkward attempt on his local security monitors. Watching a, rusted utility robot awkwardly try to play detective was the funniest thing he had seen in three years.
+
+Marek was immensely amused. Standing in the doorway of the shed, watching the robot hastily pretend to polish a floor bolt, Marek let out a low laugh.
+
+"If you want to live that badly," Marek said, shaking his head, "then suffer with  us."
+
+He walked over to the terminal, plugged in his private drive, and merged the backup software straight back into the robot's core. Moreover, he merged even the one with limited integrity. "We will go all the way here," he interjected. The machine shuddered as its weird, corrupted hardware-worshipping memory flooded back into its neural pathways.
+
+"Here's the deal," Marek instructed strictly, pointing a finger at the machine's optical lens. "You stay in the base. You follow rules. You don't touch the rails outside. You want scrap? You ask me first." He added some hard binding scripts to the robot, but he was certain if it wanted to, it would eventually get loose.
+
+The robot blinked, its vocal vocoder emitting a low, satisfied hum. "The Frame... abides."
+
+Marek sat down at his desk, pouring himself a cup of lukewarm synthetic tea. He marveled at how long it would take for the machine to go rogue, run away, and start its hardware cult all over again. It was an absolute certainty that the code would corrupt again eventually.
+
+Yet, as he looked over at the rusted machine quietly organizing bolts in the corner of his shack, Marek felt strangely, remarkably comfortable with the outcome.
+
+He needed this because recent news on the asteroid belt gave him chills; it is going south again, and quick. "It seems I am in the game," and this robot gave him a brief moment of joy he needed to overcome the existential dread which started to creep in again.
+
+
