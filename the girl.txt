@@ -1,6 +1,4 @@
-2 The Girl
-
-Marek leaned against the terminal console, watching the data buffer spin. Coval's encrypted query sat open in the corner of his HUD, asking the question everyone back on Rivet-38 wanted answered: *What the hell happened to the luxury draft?*
+Marek leaned against the terminal console, watching the data buffer spin. Coval's encrypted query sat open in the corner of his HUD, asking the question everyone back on Rivet-38 wanted answered: What the hell happened to the luxury draft?
 
 Marek didn't bother sugarcoating his reply. He knew how the station's censorship neural nets nets worked—they were automated, aggressive, and entirely indifferent to nuance. Anything he typed would be scrubbed, smoothed, and rewritten into sterile corporate PR before it ever hit Coval's receiver anyway. The algorithm would turn his bitter truth into an "unfortunate, unpreventable spatial anomaly," so Marek figured he might as well spell out the exact, ugly reality for the logs.
 
@@ -8,7 +6,7 @@ The voyage had started smoothly enough. The rusted old Ceres ore-carrier was lug
 
 When the alarms shrieked, the Captain had ordered Marek to deploy the emergency pod barriers. The pod system was designed so every pair of VIPs had their own protective barrier, but the automated sequence instantly jammed-a typical feature of "state-of-the-art" corporate gear. Marek had to override the system and yank the manual levers one by one.
 
-He hadn't told Coval *which* levers he pulled first.
+He hadn't told Coval which levers he pulled first.
 
 Marek had reviewed the classified passenger manifests after departure, so he knew exactly who was stationed where before the strike hit. 
 In that chaotic blink of a second, he knew where the girl was—the most connected person on the vessel, an heiress from an ultra-classified dynasty. But that wasn't why his hands moved where they did. He remembered staring at her photo—at how absurdly young, radiant, and unreal she looked compared to the grey, calcified station rats he'd known his whole life. She looked like an angel. A creature like that simply wasn't supposed to die in a cold, dark chunk of iron. So, he bypassed the queue and yanked the lever for her pod first, saving her and her golden-boy Navy boyfriend, moments before hull pressure collapsed and the remaining jammed barriers failed.
@@ -30,7 +28,7 @@ And yet, despite himself, Marek wasn't totally immune.
 
 He leaned back, tapping his cracked knuckles against his desk, remembering yesterday's shift. He'd done some minor, trivial pleasantry for her-passing along a cleared atmosphere report or fixing a squeaky duct hatch in her sector. She had turned, flashed a warm, blinding smile, and thanked him with lavish, public gratitude right in front of the deck crew.
 
-Marek smirked bitterly to himself in the quiet of the comms nook. *God damn it,* he thought, shaking his head. *It really worked.*
+Marek smirked bitterly to himself in the quiet of the comms nook. "God damn it," he thought, shaking his head. "It really worked."
 He dwelled on the feeling for a while.
 
 Whenever Coval actually bothered to ping him, it was never just a status check-it was an invitation for Marek to unleash the entire backlog of grievances he'd been nursing since leaving Rivet-38. And right now, the list was long.
@@ -39,7 +37,7 @@ He started typing, laying out his usual roundabout rant on the sheer, rotten sta
 
 They did the bare minimum. Sure, when mandatory periodic training rolled around, the younger crew members followed protocol to the exact millimeter. They were technically proficient, but completely dead behind the eyes. The moment an official task ended, any semblance of real focus vanished.
 
-If they weren't ordered to perform a duty, they sank straight into idle, superficial nonsense. They spent their off-hours playing subtle mind games, trading shallow pleasantries, or popping corporate-issued mood pills and slip-vr tabs designed to satisfy every basic human desire without a shred of effort. They were competitive, sure-mostly over the heiress's attention-but none of them were *serious*. Ask them how the vessel's trajectories were actually calculated, or how the magnetic seals on the thruster housings functioned, and you'd get blank stares.
+If they weren't ordered to perform a duty, they sank straight into idle, superficial nonsense. They spent their off-hours playing subtle mind games, trading shallow pleasantries, or popping corporate-issued mood pills and slip-vr tabs designed to satisfy every basic human desire without a shred of effort. They were competitive, sure-mostly over the heiress's attention-but none of them were serious. Ask them how the vessel's trajectories were actually calculated, or how the magnetic seals on the thruster housings functioned, and you'd get blank stares.
 
 None of them cared.
 
@@ -49,7 +47,7 @@ He was the only person on the entire deck with a physical whiteboard mounted in 
 
 Yet, when he tried to ask the crew about a specific component or a strange reading, they treated him like a ghost. There was zero respect for a forty-six-year-old station rat with a calcified lungs. To them, he was an awkward, low-born relic who lacked their pristine academy pedigree.
 
-*Fine,* Marek thought bitterly. *I don't have their background. But I am the only one who actually knows how this rust bucket stays alive.*
+"Fine," Marek thought bitterly. "I don't have their background. But I am the only one who actually knows how this rust bucket stays alive."
 
 The only person who seemed to notice was the Captain.
 
@@ -63,27 +61,27 @@ Marek hated their attitude. It represented everything he despised about the syst
 
 Then, Marek reached the part of his message that had been nagging at him for weeks: the ship itself.
 
-*And by the way,* Marek typed, his fingers striking the keys a bit harder, *about the structural damage.*
+"And by the way," Marek typed, his fingers striking the keys a bit harder, "about the structural damage."
 
 Every few days, the hull would shudder. Low, sickening vibrations ran through the metal decks, shaking the dust out of the overhead vents. Ever since the collision that destroyed the colonization module, the ship felt wrong to Marek. He could feel it in his teeth-a deep, persistent groan that suggested the ship was slowly falling apart at the seams.
 
-Yet, whenever he queried the internal diagnostics, the ship's neural core insisted everything was in perfect shape. The system logged the core hull as completely untouched, maintaining that the impact was isolated *entirely* to the detached colonization pod. The Captain repeated the exact same line: *The heart of the ship is fine. Nothing to worry about.*
+Yet, whenever he queried the internal diagnostics, the ship's neural core insisted everything was in perfect shape. The system logged the core hull as completely untouched, maintaining that the impact was isolated entirely to the detached colonization pod. The Captain repeated the exact same line: The heart of the ship is fine. Nothing to worry about.
 
 Marek had even tried running his own independent, unauthorized scans to look for structural fatigue or hidden stress fractures. Every single attempt was shut down by pre-programmed system overrides, returning pristine, green status reports.
 
-*It's absurd,* Marek concluded in his message to Coval, wrapping up his sour, standard rant. *We got slammed by a high-velocity impact. It ripped an entire luxury pod to shreds, but somehow our own frame didn't suffer a single micro-fracture? I can literally feel the floor shaking under my bunk, Coval. It's pre-programmed bullshit, all of it. But hey, what do I know? I'm just the guy stamping diagnostic buttons.*
+"It's absurd," Marek concluded in his message to Coval, wrapping up his sour, standard rant. "We got slammed by a high-velocity impact. It ripped an entire luxury pod to shreds, but somehow our own frame didn't suffer a single micro-fracture? I can literally feel the floor shaking under my bunk, Coval. It's pre-programmed bullshit, all of it. But hey, what do I know? I'm just the guy stamping diagnostic buttons."
 
 Month after month bled together into a flat, gray haze, and the cosmos finally did what it always does to a man out here: it got under his skin. It crept into his bones, hit his soul, and quietly crushed him.
 
-Marek found himself waking up in the middle of the dark night cycle, heart hammering against his ribs, staring at the cramped ceiling of his berth in a sudden, cold panic. *What am I doing here?* he'd whisper to the stillness. *What the hell am I actually doing?*
+Marek found himself waking up in the middle of the dark night cycle, heart hammering against his ribs, staring at the cramped ceiling of his berth in a sudden, cold panic. "What am I doing here?" he'd whisper to the stillness. "What the hell am I actually doing?"
 
-The initial spark of technical obsession that had kept him going started to burn out. He put aside his schematics and let his whiteboard gather dust. You can only study a ship's structural blueprints for so long before you hit a wall; eventually, you hit the limits of the manuals and just want to *build* something, to apply it, to be creative. Marek was a scientist at heart, but out here, trapped in a metallic routine, he was hitting the void. There was nothing real for him to work on.
+The initial spark of technical obsession that had kept him going started to burn out. He put aside his schematics and let his whiteboard gather dust. You can only study a ship's structural blueprints for so long before you hit a wall; eventually, you hit the limits of the manuals and just want to build something, to apply it, to be creative. Marek was a scientist at heart, but out here, trapped in a metallic routine, he was hitting the void. There was nothing real for him to work on.
 
 And wasn't that exact feeling the one he had been running away from his entire life? Wasn't the sole purpose of his being here to do something creative—something of value that mattered to everybody, to actually count for something in this universe, make decisions, bear responsibilities, and earn due respect? Instead, the exact opposite was happening. The only thing he was doing was maintaining redundant systems. They were in good shape to begin with, and they would likely never be run for even a single minute. Initially, sure, they were fascinating as a technical marvel, but how did that matter to reality on the ground?
 
 He pulled back from everyone. He shifted his maintenance routines to the deadest hours of the cycle so he barely crossed paths with the rest of the crew. Even his brief, grounded chats with the Captain dried up. On their last interaction, the old man had looked at Marek's hollow, bloodshot eyes and told him to take a break-maybe go sit in the common mess, drink a bulb of synthetic brew, and spend a little time with the others. The Captain could tell Marek was coming undone.
 
-The Captain wasn't wrong. Marek felt horrible. He was completely swallowed by the suffocating scale of deep space. And what infuriated him most was the kids. They were fine. They glided through the corridors as easygoing and untroubled as ever. Marek hated them for it. *I'm the only one who actually understands how this ship functions,* he'd think bitterly, *so why am I the one breaking down while they play games?*
+The Captain wasn't wrong. Marek felt horrible. He was completely swallowed by the suffocating scale of deep space. And what infuriated him most was the kids. They were fine. They glided through the corridors as easygoing and untroubled as ever. Marek hated them for it. "I'm the only one who actually understands how this ship functions," he'd think bitterly, "so why am I the one breaking down while they play games?"
 
 If there was one small, perverse joy in the current ship dynamic, it was that the crew was miserable for a different reason. 
 The Elite Heiress was now spending almost all her time holed up with her grieving, golden-boy Navy boyfriend, who had finally emerged from his cabin to join the crew. The rest of the crew, who had been hopelessly vying for her attention, were left out in the cold with virtually no window to earn her smiles.
@@ -96,13 +94,13 @@ For Marek, those tiny moments were an oxygen line in a vacuum. The suffocating w
 
 And then, his restless mind found a new target.
 
-It wasn't enough to just study anymore; he needed to *act*. He needed to prove he wasn't just a bitter, 46-year-old station rat stamping diagnostic buttons. His eyes began settling on Unit G7 during his routine maintenance rounds.
+It wasn't enough to just study anymore; he needed to act. He needed to prove he wasn't just a bitter, 46-year-old station rat stamping diagnostic buttons. His eyes began settling on Unit G7 during his routine maintenance rounds.
 
 Inside Unit G7 sat a dedicated Quantum Chip-an advanced piece of hardware capable of calculations an order of magnitude faster than the ship's primary, clunky logistics systems. It was completely underutilized, sitting idle while the ship relied on outdated corporate algorithms.
 
-A wild, ambitious idea took root in Marek's head: *If I had that quantum chip on my desk, I could rewrite the ship's entire logistical framework. I could optimize thrust vectors, resource allocation, structural strain monitoring-everything.*
+A wild, ambitious idea took root in Marek's head: "If I had that quantum chip on my desk, I could rewrite the ship's entire logistical framework. I could optimize thrust vectors, resource allocation, structural strain monitoring-everything."
 
-The idea consumed him. If he could bypass the corporate junk, optimize the ship's systems on his own, and present a flawless, high-efficiency network, the dark, oppressive cloud over his head would shatter. They would have to look at him differently. He wouldn't be the expendable "Article 45" outcast anymore-he would be a respected, essential part of the crew. Even *she* would see what he was truly capable of.
+The idea consumed him. If he could bypass the corporate junk, optimize the ship's systems on his own, and present a flawless, high-efficiency network, the dark, oppressive cloud over his head would shatter. They would have to look at him differently. He wouldn't be the expendable "Article 45" outcast anymore-he would be a respected, essential part of the crew. Even she would see what he was truly capable of.
 
 Nobody else on board would ever dream of tweaking a core corporate system like that. They lacked the vision, the drive, and the quiet desperation.
 
@@ -122,7 +120,7 @@ He carefully evaluated his options, realizing the opportunity might present itse
 
 If he got caught stealing hardware and hiding it in his private berth, he would be completely destroyed. Wiped out. Stripped of his berth and handed a lifetime corporate debt penalty.
 
-*But what do I actually have to lose?* he argued with himself, staring at his trembling hands in the dark. He was forty-six years old, trapped in the deep void aboard a groaning, shaking ship that pretended on paper to be pristine, but deep down was disintegrating under his feet. He was an "Article 45" throwaway. If he didn't take this leap, he'd spend the rest of his miserable life stamping buttons and watching elite academy kids act like he didn't exist. He *had* to do this.
+"But what do I actually have to lose?" he argued with himself, staring at his trembling hands in the dark. He was forty-six years old, trapped in the deep void aboard a groaning, shaking ship that pretended on paper to be pristine, but deep down was disintegrating under his feet. He was an "Article 45" throwaway. If he didn't take this leap, he'd spend the rest of his miserable life stamping buttons and watching elite academy kids act like he didn't exist. He had to do this.
 
 He knew how corporate protocol worked: whenever crew reshuffling occurred to make room for someone "important," he'd be unceremoniously shipped back to the asteroid—robbing him of his sole opportunity to prove his worth.
 
@@ -132,9 +130,9 @@ He didn't just pull the chip right away. Instead, his hyper-analytical, cautious
 
 He repeated the motion thirty, forty, fifty times. Out, in, lock, unlock. His fingers were clumsy at first, slick with cold sweat, but he forced himself to drill the physical action into pure muscle memory. Every time he reinstalled the chip, he watched the status indicator closely until the little orange light began to blink, confirming the module was online and the system was happy.
 
-He convinced himself he had built the ultimate safety net. If the central diagnostics ever flagged a discrepancy, nobody else on board even knew how Unit G7 functioned. The Captain would naturally order *him* to go inspect it. Marek could run to the sub-deck, slot the chip back in within few seconds, hit the reset toggle, watch the orange light blink, and report it as a simple transient glitch. It was foolproof.
+He convinced himself he had built the ultimate safety net. If the central diagnostics ever flagged a discrepancy, nobody else on board even knew how Unit G7 functioned. The Captain would naturally order him to go inspect it. Marek could run to the sub-deck, slot the chip back in within few seconds, hit the reset toggle, watch the orange light blink, and report it as a simple transient glitch. It was foolproof.
 
-*Why am I even stressing over this?* Marek thought, a sudden, surreal rush of confidence washing over his nerves. *It's a no-brainer.*
+"Why am I even stressing over this?" Marek thought, a sudden, surreal rush of confidence washing over his nerves. "It's a no-brainer."
 
 He unclasped the quantum chip module one last time, slipped the heavy, cool rectangle of casing into his deep maintenance jumpsuit pocket, and walked out of the bay.
 
@@ -142,17 +140,17 @@ With the quantum chip module tucked safely behind his desk, a sudden, heady rush
 
 He set to work immediately, syncing his personal AI assistant to the hidden hardware. Together, they pushed the chip into overdrive, processing billions of numerical combinations every single second. Marek felt the glorious, uninterrupted state of flow. He was mapping out a revolutionary core architecture: a master algorithm to optimize navigation, trade logistics, oxygen distribution, and deck resource management all at once.
 
-He paced his tiny berth in an electric haze, seeing himself in the same light as the great minds of history. *This is how Da Vinci felt,* he told himself, grinning in the dim light. *This is the spark of real genius.* He was a phantom visionary, working in secret, quietly re-engineering the world around him while the rest of the ship slept. It was exhilarating. It was inspiring. For the first time in his life, he felt utterly alive.
+He paced his tiny berth in an electric haze, seeing himself in the same light as the great minds of history. "This is how Da Vinci felt," he told himself, grinning in the dim light. "This is the spark of real genius." He was a phantom visionary, working in secret, quietly re-engineering the world around him while the rest of the ship slept. It was exhilarating. It was inspiring. For the first time in his life, he felt utterly alive.
 
-*This is what I was built for,* he thought, repeating the mantra every night as he added new parameters to the code. *This is why I hated my old life-I was never given a real chance to show what I could do.*
+"This is what I was built for," he thought, repeating the mantra every night as he added new parameters to the code. "This is why I hated my old life-I was never given a real chance to show what I could do."
 
-He carried that high into the ship's corridors. He walked taller. He stopped slinking along the bulkheads. When he passed the heiress, he offered a polite nod, looking at her not as a worshipful outcast, but almost as an equal. When he looked at the Captain, a wave of quiet pity washed over him-*You've spent your whole life running a rust bucket poor man, but I'm the one re-inventing how the sky works.* Even the Captain noticed the sudden, strange spring in Marek's step.
+He carried that high into the ship's corridors. He walked taller. He stopped slinking along the bulkheads. When he passed the heiress, he offered a polite nod, looking at her not as a worshipful outcast, but almost as an equal. When he looked at the Captain, a wave of quiet pity washed over him-"You've spent your whole life running a rust bucket poor man, but I'm the one re-inventing how the sky works." Even the Captain noticed the sudden, strange spring in Marek's step.
 
 Then, slowly, the high began to wear off, replaced by a grueling, mundane reality.
 
 The code didn't just solve itself. Marek hit a wall of relentless, microscopic bugs. An optimization in thrust vectors would suddenly degrade the life-support cooling loops. Fixing the cooling loops threw off the payload weight distribution. The system had thousands upon thousands of variables that required endless, manual fine-tuning.
 
-*It's fine,* Marek reasoned, gritting his teeth through the next two months. *The greater the struggle, the greater the glory.*
+"It's fine," Marek reasoned, gritting his teeth through the next two months. "The greater the struggle, the greater the glory."
 
 He forced himself to keep going, but the work turned into an exhausting drag. 
 
@@ -161,7 +159,7 @@ Over time, as he cross-referenced his hyper-optimized models against the ship's 
 
 Worse, Marek realized he had spent the last six months trapped in a tiny, claustrophobic cubicle, punching numbers into a screen and waiting for output logs. Just like he had for twenty-five years back on Rivet-38. This was even worse now because back in the day, the system was idiotic by design, but here he was being denied even a minor triumph.
 
-The excitement curdled into deep, bitter resentment. *Why is this so damn hard?* he'd snarl at his monitor at two in the morning, his eyes burning with exhaustion. *I am the genius here! Why do I have to suffer through these useless, endless logs? I'm too good for this! I shouldn't be sitting in a dark room tweaking decimal points!*
+The excitement curdled into deep, bitter resentment. "Why is this so damn hard?" he'd snarl at his monitor at two in the morning, his eyes burning with exhaustion. "I am the genius here! Why do I have to suffer through these useless, endless logs? I'm too good for this! I shouldn't be sitting in a dark room tweaking decimal points!"
 
 Every morning was the same. He would wake up early, filled with a desperate, fleeting hope that the overnight simulation had achieved a breakthrough. Every morning, he was met with the same lukewarm performance report.
 
@@ -177,11 +175,11 @@ The module was ruined. Burnt out. Dead. A sticky puddle of tea had fried a multi
 
 Marek stared at the fried circuit board, his mind going completely blank. The sheer, absurd stupidity of it hit him like a physical blow.
 
-A violent wave of panic and rage exploded in his chest. He slammed his fists down onto the metal desk, again and again, screaming into the quiet of his berth. He beat his fists until his knuckles bled, sobbing out a string of bitter, breathless curses. *"How could I be so stupid?! God damn it, how could I be so stupid?!"* He hated the chip. He hated the algorithms. He hated the ship, the void, and his own pathetic, desperate ambition.
+A violent wave of panic and rage exploded in his chest. He slammed his fists down onto the metal desk, again and again, screaming into the quiet of his berth. He beat his fists until his knuckles bled, sobbing out a string of bitter, breathless curses. "How could I be so stupid?! God damn it, how could I be so stupid?!" He hated the chip. He hated the algorithms. He hated the ship, the void, and his own pathetic, desperate ambition.
 
 He threw himself onto his narrow bunk, trembling, staring at the ceiling for hours as he tried to claw back a thread of sanity.
 
-*Okay. Okay,* he whispered to the dark, forcing his breathing to slow down. *I can fix this. I just need to put it back. No... I need to swap it.*
+"Okay. Okay," he whispered to the dark, forcing his breathing to slow down. "I can fix this. I just need to put it back. No... I need to swap it."
 
 The warehouse. There were spare units in the warehouse. He would just sneak in, grab one of the three replacement chips, slot it into Unit G7, and burn the evidence of the fried module.
 
@@ -195,7 +193,7 @@ He hadn't been looking at the entry for quantum chips at all.
 
 Marek stared at the glowing green text on his screen. The actual warehouse count for spare G7 Quantum Modules didn't say three.
 
-It said **0**.
+It said '0'.
 
 A cold, agonizing numbness spread from his chest down to his fingertips. There were no spares. There was no backup. Unit G7 was dark, the stolen chip was fried with synthetic tea, and the entire ship's automated diagnostic sweep will eventually detect that.
 
@@ -203,7 +201,7 @@ The realization struck Marek like a bolt of lightning.
 
 He collapsed onto his narrow bunk, completely crushed under the weight of his own monumental stupidity. His entire life, his grand dreams of being a secret genius, a visionary line-thinker-all of it shattered into pathetic, embarrassing dust.
 
-*"Stupid... disgraceful, worthless idiot,"* he whimpered into his thin pillow, unable to even stand up.
+"Stupid... disgraceful, worthless idiot," he whimpered into his thin pillow, unable to even stand up.
 
 He knew the cold reality of corporate law. Even if he ran down to the sub-deck and slotted the fried, tea-soaked module back into Unit G7, it wouldn't save him. The moment the automated diagnostic sweep ran, the system would flag the dead chip. The Captain would order a full incident report, the ship's internal logs would be pulled, and the corporate security nets would trace the missing time straight back to Marek's maintenance window.
 
@@ -215,34 +213,34 @@ For three straight days, Marek barely left his bed. He lay in the dark, sobbing 
 
 But as the third day dragged on, his bitter, restless mind-the mind of a man who had spent twenty-five years finding loopholes in diagnostic logs-started to turn over.
 
-*Think, Marek. Think.*
+"Think, Marek. Think."
 
 When the automated sweep flagged the dead chip, an investigation would trigger automatically, launching a routine audit of the ship's telemetry. But there was a critical loophole: under specific emergency conditions, logs could be manually overwritten and verified. The only person on board authorized to handle, alter, or sign off on low-level maintenance logs was the auxiliary maintenance verifier.
-*Which meant him.*
+Which meant him.
 
 
-*No, no, you idiot,* he argued with himself, grabbing his hair in frustration. *It's useless! The routine diagnostic is hardcoded into the ship's schedule! You can't just erase a core hardware failure during a normal cycle without the system flagging manual tampering! You're dreaming again!*
+"No, no, you idiot," he argued with himself, grabbing his hair in frustration. "It's useless! The routine diagnostic is hardcoded into the ship's schedule! You can't just erase a core hardware failure during a normal cycle without the system flagging manual tampering! You're dreaming again!"
 
 He sat up, his bloodshot eyes staring into the dark.
 
-*Unless... unless it isn't a normal cycle.*
+"Unless... unless it isn't a normal cycle."
 
 If an emergency forced-maintenance event was triggered—by external hull stress, for instance—the protocol changed entirely. During a crisis, automated logging took a back seat to manual crew reporting. It had happened during the micro-meteorite strike: when the ship shuddered violently enough, emergency overrides engaged, leaving log entries chaotic and heavily dependent on human verification. In short, authorized personnel could alter actual system logs, but only when the ship was actively flagging a critical emergency.
 
-*But how do you force a hull crisis on a heavy ore-carrier?* Marek thought, his stomach churning. *You can't. It's impossible. Stop daydreaming, you lunatic! You're already dead!*
+"But how do you force a hull crisis on a heavy ore-carrier?" Marek thought, his stomach churning. "You can't. It's impossible. Stop daydreaming, you lunatic! You're already dead!"
 
 And then, a dusty schematic he had memorized months ago flashed in his head.
 
-**Aggregate Engine #5.**
+'Aggregate Engine #5.'
 
 It was an old, brutally powerful sub-thruster unit, almost never used on standard routes. In the ship's technical logs, Marek recalled a specific manufacturer warning: during trial runs, firing Aggregate Thruster #5 above a specific power threshold induced violent harmonic vibrations throughout the mid-hull. The flaw was unique to this vessel, but corporate management had bypassed expensive repairs by simply updating protocol to forbid its use under normal transit.
-*I can't just walk up to the bridge and turn on Aggregate #5,* Marek muttered, pacing his berth. *I don't have bridge clearance. It's over.*
+"I can't just walk up to the bridge and turn on Aggregate #5," Marek muttered, pacing his berth. "He didn't have bridge clearance. It was over."
 He stopped. His pulse began to race, a cold, dark adrenaline cutting through his panic.
-*Unless it happens during a mandatory drill.*
+Unless it happens during a mandatory drill.
 During live training exercises, access controls on secondary consoles were temporarily relaxed for instruction. If he volunteered for the thruster bank during an exercise, Marek could "make a mistake."
 He could flip the wrong toggle. Aggregate #5 would surge, the ship would shudder violently, and in the resulting chaos, Unit G7's failure could be passed off as damage from the vibration spike. More importantly, an emergency maintenance override would trigger automatically, granting him legal authorization to overwrite the corrupted logs.
 
-*And then,* Marek thought, a grim smile creeping onto his face, *I step in as the maintenance guy.*
+And then, Marek thought, a grim smile creeping onto his face, he'd step in as the maintenance guy.
 
 He could legally go into the corrupted sub-deck logs and mark Unit G7 as "destroyed via catastrophic resonance spike during thruster malfunction."
 
@@ -254,9 +252,9 @@ Marek wiped his face with his trembling, sweaty hands, leaning against his white
 
 The logic was bulletproof in his head. The physical setup for the drill was practically inviting him to pull it off.
 
-During the mandatory shipwide exercises, the crew was rotated through emergency maneuvering stations. Marek wasn't usually assigned to the main Alternator Console-that was usually left to the younger hands-but the training protocols strictly encouraged crew members to take initiative and practice unfamiliar roles. If he walked up to the board with enough quiet confidence and simply claimed he wanted to log hours on the manual sequence, nobody would question it. They'd probably be glad to let the old station rat handle the boring, manual switches while they slacked off.
+During the mandatory shipwide exercises, the crew was rotated through emergency maneuvering stations. Marek wasn't usually assigned to the main Aggregator Console-that was usually left to the younger hands-but the training protocols strictly encouraged crew members to take initiative and practice unfamiliar roles. If he walked up to the board with enough quiet confidence and simply claimed he wanted to log hours on the manual sequence, nobody would question it. They'd probably be glad to let the old station rat handle the boring, manual switches while they slacked off.
 
-The plan hinged on a split second. During the power-routing phase of the drill, instead of cycling Alternator Sequence 1, 2, or 3 like normal, Marek would flip the toggle for **Alternator 5** onward.
+The plan hinged on a split second. During the power-routing phase of the drill, instead of cycling Aggregator Sequence 1, 2, or 3 like normal, Marek would flip the toggle for 'Aggregator 5' onward.
 
 Nobody on the bridge crew knew about Aggregate #5's violent harmonic quirk-it was buried deep in an obscure technical bulletin that only an obsessive like Marek would ever read. It wouldn't tear the ship in half, but it would set off a vicious, bone-rattling vibration through the mid-hull decks. A violent, artificial "system malfunction."
 
@@ -265,29 +263,29 @@ In the immediate aftermath, the ship's automated alerts would flag forced emerge
 Sure, the Captain might give him a tongue-lashing for a sloppy sequence toggle, but making a minor human error during a routine drill was light-years away from facing a corporate court-martial for grand theft and hardware destruction.
 
 So it was decided. 
-For days leading up to the drill, Marek rehearsed the exact motion in his sleep. *Walk up. Take the station. Reach out. Flip Toggle 5. Panic. Apologize. Clear logs later.*
+For days leading up to the drill, Marek rehearsed the exact motion in his sleep. Walk up. Take the station. Reach out. Flip Toggle 5. Panic. Apologize. Clear logs later.
 
-On the day of the exercise, Marek didn't take any chances. Hours before the alarm was scheduled to sound, he hovered around the sub-deck corridor, lurking near the Alternator Console so he could step into position the very second the drill officially began.
+On the day of the exercise, Marek didn't take any chances. Hours before the alarm was scheduled to sound, he hovered around the sub-deck corridor, lurking near the Aggregator Console so he could step into position the very second the drill officially began.
 
 When the alarm finally blared through the bulkheads, Marek turned the corner into the control bay, his heart hammering against his ribs, his hands clammy and cold.
 
 He froze.
 
-Standing right in front of the primary control bank, holding a digital clipboard, was **Adam**.
+Standing right in front of the primary control bank, holding a digital clipboard, was Adam.
 
-The quartermaster *never* stood duty at the manual Alternator Console during training exercises. Not once in six months. But there he was, stiff-backed and miserable, aggressively running a diagnostic check on the toggle switches. Worse, the Captain was standing just a few paces back near the hatchway, silently observing the crew as they trickled into the bay.
+The quartermaster never stood duty at the manual Aggregator Console during training exercises. Not once in six months. But there he was, stiff-backed and miserable, aggressively running a diagnostic check on the toggle switches. Worse, the Captain was standing just a few paces back near the hatchway, silently observing the crew as they trickled into the bay.
 
 Marek's blood ran cold. The entire scheme shattered in an instant.
 
-He couldn't just walk up and push Adam out of the way. The quartermaster already despised Marek, and insisting on taking *that specific console* right under the Captain's watchful eye would scream suspicion. It had to look natural, effortless, accidental-or it would fail entirely.
+He couldn't just walk up and push Adam out of the way. The quartermaster already despised Marek, and insisting on taking that specific console right under the Captain's watchful eye would scream suspicion. It had to look natural, effortless, accidental-or it would fail entirely.
 
 Desperation clutched at Marek's throat as the rest of the crew slowly filed into the cramped room, taking their places. The clock was ticking, the alarm was howling, and Marek stood pinned to the deck, paralyzed as his one escape hatch slammed shut before his eyes.
 
 The girl walked into the control bay, surrounded by that effortless, blinding presence of hers. She had likely been invited by the Captain to observe the exercise, but the reason didn't matter-the effect was instantaneous.
 
-Adam and few others couldn't resist. The moment she crossed the threshold, the quartermaster abandoned the Alternator Console without a second thought, rushing over to hover in her orbit and offer his usual eager, sycophantic pleasantries.
+Adam and few others couldn't resist. The moment she crossed the threshold, the quartermaster abandoned the Aggregator Console without a second thought, rushing over to hover in her orbit and offer his usual eager, sycophantic pleasantries.
 
-Marek didn't hesitate for a single microsecond. Politeness demanded he acknowledge her presence, maybe offer a quiet word to build on those recent nods, but survival overruled courtesy. Ignoring her completely, he lunged across the deck and planted himself firmly in front of the unmanned Alternator Console, sliding into the harness before anyone could stop him.
+Marek didn't hesitate for a single microsecond. Politeness demanded he acknowledge her presence, maybe offer a quiet word to build on those recent nods, but survival overruled courtesy. Ignoring her completely, he lunged across the deck and planted himself firmly in front of the unmanned Aggregator Console, sliding into the harness before anyone could stop him.
 
 Adam turned back, his face twisting in bitter annoyance at losing the station. For a second, it looked like the quartermaster was going to order Marek out of the chair, but under the watchful, graceful eyes of the heiress and the stern presence of the Captain, Adam choked it back. He reluctantly took whatever secondary position was left open.
 
@@ -297,7 +295,7 @@ The exercise progressed, the blare of the simulated alarm filling the bay. Marek
 
 The moment arrived.
 
-Instead of cycling Alternators 1, 2, and 3 from the primary bank, Marek deliberately reached to the wrong side of the panel. He bypassed the standard toggles and slammed the manual lever for **Alternator 5** all the way forward then 4 and 3 ever so slightly.
+Instead of cycling Aggregators 1, 2, and 3 from the primary bank, Marek deliberately reached to the wrong side of the panel. He bypassed the standard toggles and slammed the manual lever for 'Aggregator 5' all the way forward then 4 and 3 ever so slightly.
 
 For several agonizing seconds, nothing happened.
 
@@ -307,9 +305,9 @@ Marek stood in the middle of the vibration, pretending to freeze in sheer, bewil
 
 The Captain's reaction was terrifyingly swift. He didn't yell; he didn't panic. Without a moment's hesitation, the old hand barked out precise, razor-sharp commands straight over the comms:
 
-*"Marek! Decouple Five! Increase Four to balance!"*
+"Marek! Decouple Five! Increase Four to balance!"
 
-Marek scrambled to execute the order, yanking the lever on Alternator 5 back by half and throttling up Four.
+Marek scrambled to execute the order, yanking the lever on Aggregator 5 back by half and throttling up Four.
 
 Instantly, the violent shuddering died down, melting back into the ship's usual low, ominous hum. Out of the corner of his eye, Marek saw the flashing amber status lights on the secondary diagnostic board: the system had flagged a cascade of forced emergency maintenance procedures across the sector, he had won.
 
@@ -331,7 +329,7 @@ It wasn't about the hardware. The corporation had endless money, and nobody was 
 
 Then came the dreams.
 
-For three nights in a row, Marek would wake up drenched in cold sweat. In the dream, the sudden surge from Alternator 5 didn't just shake the ship-it cracked the main hull wide open. He would watch in silent terror as the metal skin of the ore-carrier tore apart like wet paper, venting the decks, the Captain, the heiress, and himself out into the freezing, lifeless vacuum.
+For three nights in a row, Marek would wake up drenched in cold sweat. In the dream, the sudden surge from Aggregator 5 didn't just shake the ship-it cracked the main hull wide open. He would watch in silent terror as the metal skin of the ore-carrier tore apart like wet paper, venting the decks, the Captain, the heiress, and himself out into the freezing, lifeless vacuum.
 
 Every morning, Marek tried to shake it off, dismissing the nightmares as nothing more than a guilty conscience and bad nerves. But deep down, as the ship gave its usual low, ominous shudder, the feeling refused to leave him.
 
@@ -348,29 +346,33 @@ Through the haze, Marek stumbled into three figures. It was the Golden Prodigy, 
 
 They were already in full suits, but the easygoing arrogance of the two elites was entirely gone. They looked terrified, desperate, and fiercely determined to survive. The girl leaned in, whispering frantically to her boyfriend, who turned toward Marek with nervousness in his eyes.
 
-"Marek! Fast!" the boy yelled over the roar of the alarms. "We're going to the G7 auxiliary life support unit! The Captain said the primary unit is failing-we have to manually kickstart the backup, or we're dead in minutes! You know the sub-deck layout!"
+"Marek, move!" the boy yelled over the alarms. "Primary life support is down! We have to kickstart the G7 backup manually or we're dead in minutes, and you know the sub-deck!"
 
 Marek opened his mouth, but no sound came out.
 
 Instead of moving, Marek found his eyes locked onto the girl. Even in the dim, flashing red light, through the scratched visor of her suit, her expression struck him like a physical blow. Her eyes weren't just scared-they were calculated, sharp, and predatory. In that split second, the illusion shattered. She wasn't an angel. She was a survivor who would burn the whole world down just to keep breathing.
 
-A sudden, paralyzing dread locked Marek's joints. He couldn't move. He couldn't step forward.
+A sudden, paralyzing dread locked Marek's joints. He couldn't move. He couldn't step forward. It was everything he had wanted—"I will show you," he had told himself once, "I will show you"—but the sheer gravity of the situation and its consequences were overwhelming.
+He was scared of the responsibility. He was scared of the sheer determination of those two; they were ready to do basically anything just to stay alive. Marek felt that exact same drive, but he had lost his composure entirely—his initiative, his certainty.
+Sudden, unwarranted flashes of panic were almost impossible to contain, urging him to run in a random direction and making it difficult to grasp what was going on around him. Despite those overwhelming urges to run, he was shaking and thrashing frantically rather than making any calculated move.
+But it was not even just that, he realized; his simple control over his own body had vanished, leaving him feeling as though he wasn't even capable of translating his intentions into actual movement.
+It was like yet another alien entity materialized in his mind. It severed the connection between his own free will and his body control, basically hijacking him like he was a doll.
+It was humiliating. "Not right now... not now... Why can't I move? Why can't I act?" Instead, this entity was operating the physical actions of his body. He knew he was crouching and shaking, but there was no way he was in a position to resume control.
+He could feel their punishing look on him. "How miserable I am... how miserable I must look..." Now completely defenseless, completely exposed.
 
 "He's frozen! We don't have time for this!" the boy panicked, pulling at her arm. "Leila, we have to go without him!"
 
-Adam's grating voice boomed over the comms channel. *"Leave him! The old station rat is useless! A completely spineless prick! I know where G7 is, I'll take you!"*
+Adam's grating voice boomed over the comms channel. "Leave him! The old station rat is dead weight—completely useless! I know where G7 is, I'll take you!"
 
-Marek wanted to scream. He wanted to shout at the boy: *Don't go with them! Look at her eyes cant you see what they about  to do to you! You're academy trained-you can fix it on your own! Don't take them near G7! You don't know what's waiting down there!*
+Marek wanted to scream. He wanted to shout at the boy: "Don't go with them! Look at her eyes cant you see what they about  to do to you! You're academy trained-you can fix it on your own! Don't take them near G7! You don't know what's waiting down there!"
 
-But his lungs refused to work. He stood frozen as the three of them vanished down the smoky corridor, their boots echoing into the dark.
+But his lungs refused to work. He remained frozen, crouched in the haze as the three of them vanished down the smoky corridor, their boots echoing into the dark.
 
-The moment they disappeared, a primal, pathetic urge took over Marek's brain: *Hide.*
+The moment they disappeared, a primal, pathetic urge took over Marek's brain: "Hide."
 
-Let them handle it. Let the robots fix the ship. Let the high-born prodigy pull off a miracle. Marek knew the dark, forgotten corners of the ore-carrier better than anyone. He turned and ran, trembling, his calcified lungs burning as he dragged himself toward a tiny, auxiliary compartment that he knew possessed its own mechanical, self-sealing hatch.
+Let them handle it. Let the robots fix the ship. Let the high-born prodigy pull off a miracle. Marek knew the dark, forgotten corners of the ore-carrier better than anyone.  Slowly, he restored control over his body. With every step, it seemed to be getting easier. He ran, trembling, his lungs burning as he dragged himself toward the tiny, auxiliary compartment that possessed its own mechanical, self-sealing hatch.  He threw himself inside and slammed the seal. 
 
-He threw himself inside and slammed the seal.
-
-A second later, the overhead lights flickered, died, and snapped back on in a sickly, pulsing **pink**.
+A second later, the overhead lights flickered, died, and snapped back on in a sickly, pulsing 'pink'.
 
 Marek's stomach dropped. Pink lighting meant absolute system failure. The primary life support was dead. The ship was no longer a vessel-it was a drifting, freezing chunk of metal. They had minutes, maybe an hour, before the air turned to poison.
 
@@ -380,21 +382,20 @@ He pulled it out. It was the fried, tea-soaked G7 Quantum Module. The dead chip 
 
 A horrifying realization cascaded through his mind.
 
-The secondary life support system had two boot-up protocols. **Sequence A** was the automated, high-speed emergency sequence-it required an active quantum chip in Unit G7 to compute the rapid atmospheric balancing algorithms in seconds.
+The secondary life support system had two boot-up protocols. 'Sequence A' was the automated, high-speed emergency sequence-it required an active quantum chip in Unit G7 to compute the rapid atmospheric balancing algorithms in seconds.
 
-**Sequence B** was the manual, hard-coded fallback. It didn't need the quantum chip, but it required hours of manual, painstaking diagnostic checks and precise cable routing. In a dying, toxic ship, Sequence B was completely impossible. The boy would try to run Sequence A, hit the dead chip *he* had fried, and fail.
+'Sequence B' was the manual, hard-coded fallback. It didn't need the quantum chip, but it required hours of manual, painstaking diagnostic checks and precise cable routing. In a dying, toxic ship, Sequence B was completely impossible. The boy would try to run Sequence A, hit the dead chip he had fried, and fail.
 
-*We're dead,* Marek thought, staring at the useless rectangle of plastic and copper. *I killed us all.*
+"We're dead," Marek thought, staring at the useless rectangle of plastic and copper. "I killed us all."
 
-Then, something inside Marek broke. The fear simply... vanished.
+Then, something inside Marek broke. The fear simply... vanished. Every other emotion stripped away right along with it, leaving him hollowed out and completely alone. He realized something—a sudden, violent shift in how he saw the whole damn situation. "I don't care that much." Abandoned by his own chaotic mind, he was finally free to calculate and act in the most brutal, primitive way.
 
-A strange, eerie numbness washed over his mind. It felt as if he had detached from his own body, stepping back to watch himself like a character in a movie. He didn't feel panic. He didn't feel dread.
+Furthermore, a strange, eerie numbness washed over his mind. It felt as if he had detached from his own body, stepping back to watch himself like a character in a movie. He didn't feel panic. He didn't feel dread.
 
 He stood up, unsealed the hatch, and walked out into the toxic haze.
 
 He moved through the shuddering, ruined corridors like a phantom, stepping over fallen pipes and dodging arcing electrical wires. His hands moved on pure autopilot. He walked straight to the primary warehouse compartment-the one he'd been afraid to touch-forced the override hatch, reached into the primary diagnostic unit, and unlatched its primary operational quantum module.
-
-Again he was completely detached. 
+ 
 To him, it was like a simple checklist. He checked off the first item—just routine retrieval—and moved straight to the next.
 
 He squeezed the fresh, heavy module in his gloved fist and headed for sub-deck G7.
@@ -407,7 +408,7 @@ Marek stopped, looking down at him through his own scratched visor, completely c
 
 He stepped over Adam's outstretched hands and moved forward.
 
-As he descended further, the air inside Marek's own suit grew thick and foul. A sharp, chemical warning tone chimed in his ear, and his HUD flashed a blinding, violent **red**. His suit seal was failing; toxic hull gas was mixing with his personal oxygen supply. His vision began to dim, fading into a noisy, blood-red blur until he could scarcely see a foot in front of his face.
+As he descended further, the air inside Marek's own suit grew thick and foul. A sharp, chemical warning tone chimed in his ear, and his HUD flashed a blinding, violent 'red'. His suit seal was failing; toxic hull gas was mixing with his personal oxygen supply. His vision began to dim, fading into a noisy, blood-red blur until he could scarcely see a foot in front of his face.
 
 He kept walking.
 
@@ -416,19 +417,20 @@ When he staggered into the G7 sub-deck compartment, the heiress was already coll
 Only the Navy boy was still fighting, down on his knees in front of the open G7 terminal. But the boy was struggling-the console screen was corrupted, and the wiring bank was a chaotic mess.
 
 "Marek?!" the boy gasped, turning as Marek collapsed beside him. "You brought the module?!"
-Marek could barely see and his hands were shaking violently, but he held out the chip and began guiding the boy through the connection sequence.
 
-Marek reached out, his own vision practically blacking out from the toxic mix in his suit. His gloved hand felt the heavy quantum chip, but his body was completely spent.
+Marek’s vision was practically blacking out from the toxic air leaking into his suit, and his body was completely spent. Slumping against the terminal, he held out the heavy quantum chip with shaking hands.
 
-"first Green..." Marek rasped, his voice echoing hollowly in his head. "Red... Orange... Blue..."
+The boy grabbed the module from Marek's trembling grip, slammed it into the empty slot, and hovered over the chaotic mess of wiring.
 
-The boy took the fresh quantum module from Marek's trembling hands, slammed it into the slot, and frantically began matching the cables as Marek called them out.
+"First Green..." Marek rasped, his voice echoing hollowly inside his helmet. "...then Red... Orange... Blue..."
+
+The Navy prodigy frantically began matching the cables to the sub-tier terminals as Marek called them out.
 
 Marek's legs finally gave out. He collapsed against the bulkhead, sitting frozen in the corner, too exhausted to move a single muscle, watching like a spectator as the boy took over entirely.
 
 The Golden Prodigy slammed the master engagement toggle himself, igniting Sequence A.
 
-A massive, thundering hum vibrated through the deck as the auxiliary atmospheric scrubbers roared to life. The sickly pink ambient lights flickered, died, and snapped back into a steady, bright **white**. Fresh, cold air began to surge through the vents.
+A massive, thundering hum vibrated through the deck as the auxiliary atmospheric scrubbers roared to life. The sickly pink ambient lights flickered, died, and snapped back into a steady, bright 'white'. Fresh, cold air began to surge through the vents.
 
 It was over.
 
@@ -438,4 +440,4 @@ Across the deck, the Elite Heiress slowly pushed herself up against the wall, br
 
 But then Marek's eyes drifted toward the open hatchway.
 
-There was still one man on this vessel he truly feared. The Captain.
+There was still one man on this vessel he truly feared.
